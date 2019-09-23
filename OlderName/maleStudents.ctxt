@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=maleStudents()
+comment1.params=n\ g
+comment1.target=maleStudents(java.lang.String,\ int)
+numComments=2
